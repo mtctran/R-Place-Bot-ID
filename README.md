@@ -40,6 +40,7 @@ Contributors
 Minh Tran - Project Lead
 Brian Sobell
 Riley Svennson
+Kevin Nagpal
 
 ### License
 This project is licensed under the MIT License.
