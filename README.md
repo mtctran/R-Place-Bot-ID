@@ -20,13 +20,20 @@ Detecting color changes over time.
 Identifying immediate color changes back to the original within a specified timeframe.
 To run the analysis, ensure you have the following libraries installed:
 
--Parquet
--Boto3
--PyArrow
--Pandas
--Numpy
--Os
--Shutil
+Parquet
+
+Boto3
+
+PyArrow
+
+Pandas
+
+Numpy
+
+Os
+
+Shutil
+
 Run the provided Jupyter Notebook (Part1_Finding_Bots.ipynb) to execute the code.
 
 #### Part 2 - Plotting Bot Activities
